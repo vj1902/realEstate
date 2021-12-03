@@ -1,0 +1,414 @@
+[
+    {
+        "id":1,
+        "para":"The Place with more space and less Rate",        
+        "img": "https://compote.slate.com/images/a05dacfb-7c9f-41c5-badd-e462d2516e21.jpeg?width=780&height=520&rect=1560x1040&offset=0x0",
+        "title":"Property 1",
+        "rate":"₹ 74,00,000",
+        "company":"Akshya Appartments",
+        "cal":[
+            "https://compote.slate.com/images/a05dacfb-7c9f-41c5-badd-e462d2516e21.jpeg?width=780&height=520&rect=1560x1040&offset=0x0",
+            "https://d3d127vhjgkwcw.cloudfront.net/images/articles/2015_07/Hamptons_400.jpg",
+            "https://static.toiimg.com/thumb/msid-82276439,width-1200,height-900,resizemode-4/.jpg",
+            "https://is1-3.housingcdn.com/01c16c28/f09b21bc3f07ebfb83cd5d6ecb34f33c/v0/fs/2_bhk_independent_house-for-rent-ganapathy-Coimbatore-building_view.jpg"
+            
+        ],
+        "facilities":[
+            {
+                "link":"https://img.icons8.com/ios/50/000000/garage.png",
+                "alt":"Garage"
+            },
+            {
+                "link":"https://img.icons8.com/external-photo3ideastudio-lineal-photo3ideastudio/64/000000/external-power-supply-home-office-photo3ideastudio-lineal-photo3ideastudio.png",
+                "alt":"24/7 Power"
+            },
+            {
+                "link":"https://img.icons8.com/external-flatart-icons-solid-flatarticons/64/000000/external-wifi-network-and-cloud-computing-flatart-icons-solid-flatarticons.png",
+                "alt":"wi-fi"
+            },
+            {
+                "link":"https://img.icons8.com/external-photo3ideastudio-lineal-photo3ideastudio/64/000000/external-park-public-service-photo3ideastudio-lineal-photo3ideastudio.png",
+
+                "alt":"Park"
+            },
+            {
+                "link":"https://img.icons8.com/material/30/000000/dumbbell--v1.png",
+                "alt":"Gym"
+
+            },
+            {
+                "link":"https://img.icons8.com/external-photo3ideastudio-lineal-photo3ideastudio/64/000000/external-school-building-photo3ideastudio-lineal-photo3ideastudio.png",
+                "alt":"School"
+            },
+            {
+                "link":"https://img.icons8.com/glyph-neue/64/000000/swimming.png",
+                "alt":"Swimming Pool"
+            },
+            {
+                "link":"https://img.icons8.com/external-prettycons-solid-prettycons/60/000000/external-bus-car-parts-vehicles-prettycons-solid-prettycons.png",
+                "alt":"Bus Stop"
+            }
+            
+        ]
+    },
+    {
+        "id":2,
+        "para":"Your own furnished house at low cost.",
+        "img": "https://cdn.staticmb.com/magicservicestatic/images/mb-home-web/collection/nri/individual-houses-villas.jpg",
+        "title":"Property 2",
+        "rate":"₹ 68,00,000",
+        "company":"Castle Group",
+        "cal":[
+
+            "https://cdn.staticmb.com/magicservicestatic/images/mb-home-web/collection/nri/individual-houses-villas.jpg",
+            "https://static.toiimg.com/thumb/msid-82276439,width-1200,height-900,resizemode-4/.jpg",
+            "https://is1-3.housingcdn.com/01c16c28/f09b21bc3f07ebfb83cd5d6ecb34f33c/v0/fs/2_bhk_independent_house-for-rent-ganapathy-Coimbatore-building_view.jpg"
+            
+        ],
+        "facilities":[
+            {
+                "link":"https://img.icons8.com/ios/50/000000/garage.png",
+                "alt":"Garage"
+            },
+            {
+                "link":"https://img.icons8.com/external-photo3ideastudio-lineal-photo3ideastudio/64/000000/external-power-supply-home-office-photo3ideastudio-lineal-photo3ideastudio.png",
+                "alt":"24/7 Power"
+            },
+            {
+                "link":"https://img.icons8.com/external-flatart-icons-solid-flatarticons/64/000000/external-wifi-network-and-cloud-computing-flatart-icons-solid-flatarticons.png",
+                "alt":"wi-fi"
+            },
+            {
+                "link":"https://img.icons8.com/external-photo3ideastudio-lineal-photo3ideastudio/64/000000/external-park-public-service-photo3ideastudio-lineal-photo3ideastudio.png",
+
+                "alt":"Park"
+            },
+            {
+                "link":"https://img.icons8.com/material/30/000000/dumbbell--v1.png",
+                "alt":"Gym"
+
+            },
+            {
+                "link":"https://img.icons8.com/external-photo3ideastudio-lineal-photo3ideastudio/64/000000/external-school-building-photo3ideastudio-lineal-photo3ideastudio.png",
+                "alt":"School"
+            },
+            {
+                "link":"https://img.icons8.com/external-prettycons-solid-prettycons/60/000000/external-bus-car-parts-vehicles-prettycons-solid-prettycons.png",
+                "alt":"Bus Stop"
+            }
+        ]
+    },
+    {
+        "id":3,
+        "para":"Fully furnished royal house with lotz in it.",
+        
+        "img": "https://is1-2.housingcdn.com/01c16c28/03e68cfa3fd8c3a5addabeadb8d12523/v0/fs/4_bhk_independent_house-for-sale-panaiyur-Chennai-building_view.jpg",
+        "title":"Property 3",
+        "rate":"₹ 1,04,00,000",
+        "company":"Heritage Realty",
+        "cal":[
+            "https://is1-2.housingcdn.com/01c16c28/03e68cfa3fd8c3a5addabeadb8d12523/v0/fs/4_bhk_independent_house-for-sale-panaiyur-Chennai-building_view.jpg",
+            "https://static.toiimg.com/thumb/msid-82276439,width-1200,height-900,resizemode-4/.jpg",
+            "https://is1-3.housingcdn.com/01c16c28/f09b21bc3f07ebfb83cd5d6ecb34f33c/v0/fs/2_bhk_independent_house-for-rent-ganapathy-Coimbatore-building_view.jpg"
+            
+        ],
+        "facilities":[
+            {
+                "link":"https://img.icons8.com/ios/50/000000/garage.png",
+                "alt":"Garage"
+            },
+            {
+                "link":"https://img.icons8.com/external-photo3ideastudio-lineal-photo3ideastudio/64/000000/external-power-supply-home-office-photo3ideastudio-lineal-photo3ideastudio.png",
+                "alt":"24/7 Power"
+            },
+            {
+                "link":"https://img.icons8.com/external-flatart-icons-solid-flatarticons/64/000000/external-wifi-network-and-cloud-computing-flatart-icons-solid-flatarticons.png",
+                "alt":"wi-fi"
+            },
+            {
+                "link":"https://img.icons8.com/external-photo3ideastudio-lineal-photo3ideastudio/64/000000/external-park-public-service-photo3ideastudio-lineal-photo3ideastudio.png",
+
+                "alt":"Park"
+            },
+            {
+                "link":"https://img.icons8.com/material/30/000000/dumbbell--v1.png",
+                "alt":"Gym"
+
+            },
+            {
+                "link":"https://img.icons8.com/external-photo3ideastudio-lineal-photo3ideastudio/64/000000/external-school-building-photo3ideastudio-lineal-photo3ideastudio.png",
+                "alt":"School"
+            },
+            {
+                "link":"https://img.icons8.com/glyph-neue/64/000000/swimming.png",
+                "alt":"Swimming Pool"
+            },
+            {
+                "link":"https://img.icons8.com/external-prettycons-solid-prettycons/60/000000/external-bus-car-parts-vehicles-prettycons-solid-prettycons.png",
+                "alt":"Bus Stop"
+            }
+            
+        ]
+
+    },
+    {
+        "id":4,
+        "para":"Safe and secure Villa with all comfortabilities in it.",
+       
+        "img": "https://cdn.vox-cdn.com/thumbor/6itLJS9BZ-B5gXPjM1AB_z-ZKVI=/0x0:3000x2000/1200x800/filters:focal(1260x760:1740x1240)/cdn.vox-cdn.com/uploads/chorus_image/image/65890203/iStock_1067331614.7.jpg",
+        "title":"Property 4",
+        "rate":"₹ 2,04,00,000",
+        "company":"Casagrand Builder Private Limited",
+        "cal":[
+            "https://cdn.vox-cdn.com/thumbor/6itLJS9BZ-B5gXPjM1AB_z-ZKVI=/0x0:3000x2000/1200x800/filters:focal(1260x760:1740x1240)/cdn.vox-cdn.com/uploads/chorus_image/image/65890203/iStock_1067331614.7.jpg",
+            "https://static.toiimg.com/thumb/msid-82276439,width-1200,height-900,resizemode-4/.jpg",
+            "https://is1-3.housingcdn.com/01c16c28/f09b21bc3f07ebfb83cd5d6ecb34f33c/v0/fs/2_bhk_independent_house-for-rent-ganapathy-Coimbatore-building_view.jpg"
+            
+        ],
+        "facilities":[
+            
+            {
+                "link":"https://img.icons8.com/ios/50/000000/garage.png",
+                "alt":"Garage"
+            },
+            {
+                "link":"https://img.icons8.com/external-photo3ideastudio-lineal-photo3ideastudio/64/000000/external-power-supply-home-office-photo3ideastudio-lineal-photo3ideastudio.png",
+                "alt":"24/7 Power"
+            },
+            {
+                "link":"https://img.icons8.com/external-flatart-icons-solid-flatarticons/64/000000/external-wifi-network-and-cloud-computing-flatart-icons-solid-flatarticons.png",
+                "alt":"wi-fi"
+            },
+            {
+                "link":"https://img.icons8.com/external-photo3ideastudio-lineal-photo3ideastudio/64/000000/external-park-public-service-photo3ideastudio-lineal-photo3ideastudio.png",
+
+                "alt":"Park"
+            },
+            {
+                "link":"https://img.icons8.com/material/30/000000/dumbbell--v1.png",
+                "alt":"Gym"
+
+            },
+            {
+                "link":"https://img.icons8.com/external-photo3ideastudio-lineal-photo3ideastudio/64/000000/external-school-building-photo3ideastudio-lineal-photo3ideastudio.png",
+                "alt":"School"
+            },
+            {
+                "link":"https://img.icons8.com/glyph-neue/64/000000/swimming.png",
+                "alt":"Swimming Pool"
+            },
+            {
+                "link":"https://img.icons8.com/external-prettycons-solid-prettycons/60/000000/external-bus-car-parts-vehicles-prettycons-solid-prettycons.png",
+                "alt":"Bus Stop"
+            }
+        ]
+    },
+    {
+        "id":5,
+        "para":"Home is where we should feel secure and comfortable and here you can feel more.",
+        
+        "img": "https://images.adsttc.com/media/images/5ecd/d4ac/b357/65c6/7300/009d/large_jpg/02C.jpg?1590547607",
+        "title":"Property 5",
+        "rate":"₹ 1,24,00,000",
+        "company":"Arun Excello Homes Pvt Ltd",
+        "cal":[
+            "https://images.adsttc.com/media/images/5ecd/d4ac/b357/65c6/7300/009d/large_jpg/02C.jpg?1590547607",
+            "https://static.toiimg.com/thumb/msid-82276439,width-1200,height-900,resizemode-4/.jpg",
+            "https://is1-3.housingcdn.com/01c16c28/f09b21bc3f07ebfb83cd5d6ecb34f33c/v0/fs/2_bhk_independent_house-for-rent-ganapathy-Coimbatore-building_view.jpg"
+            
+        ],
+        "facilities":[
+            {
+                "link":"https://img.icons8.com/ios/50/000000/garage.png",
+                "alt":"Garage"
+            },
+            {
+                "link":"https://img.icons8.com/external-photo3ideastudio-lineal-photo3ideastudio/64/000000/external-power-supply-home-office-photo3ideastudio-lineal-photo3ideastudio.png",
+                "alt":"24/7 Power"
+            },
+            {
+                "link":"https://img.icons8.com/external-flatart-icons-solid-flatarticons/64/000000/external-wifi-network-and-cloud-computing-flatart-icons-solid-flatarticons.png",
+                "alt":"wi-fi"
+            },
+            {
+                "link":"https://img.icons8.com/external-photo3ideastudio-lineal-photo3ideastudio/64/000000/external-park-public-service-photo3ideastudio-lineal-photo3ideastudio.png",
+
+                "alt":"Park"
+            },
+            {
+                "link":"https://img.icons8.com/material/30/000000/dumbbell--v1.png",
+                "alt":"Gym"
+
+            },
+            {
+                "link":"https://img.icons8.com/external-photo3ideastudio-lineal-photo3ideastudio/64/000000/external-school-building-photo3ideastudio-lineal-photo3ideastudio.png",
+                "alt":"School"
+            },
+            {
+                "link":"https://img.icons8.com/glyph-neue/64/000000/swimming.png",
+                "alt":"Swimming Pool"
+            },
+            {
+                "link":"https://img.icons8.com/external-prettycons-solid-prettycons/60/000000/external-bus-car-parts-vehicles-prettycons-solid-prettycons.png",
+                "alt":"Bus Stop"
+            }
+        ]
+
+    },
+    {
+        "id":6,
+        "para":"Home is the nicest word there is.",
+        
+        "img": "https://www.homenish.com/wp-content/uploads/2020/03/types-of-houses-1200x900.jpeg",
+        "title":"Property 6",
+        "rate":"₹ 94,00,000",
+        "company":"StepStones",
+        "cal":[
+            "https://www.homenish.com/wp-content/uploads/2020/03/types-of-houses-1200x900.jpeg",
+            "https://static.toiimg.com/thumb/msid-82276439,width-1200,height-900,resizemode-4/.jpg",
+            "https://is1-3.housingcdn.com/01c16c28/f09b21bc3f07ebfb83cd5d6ecb34f33c/v0/fs/2_bhk_independent_house-for-rent-ganapathy-Coimbatore-building_view.jpg"
+            
+        ],
+        "facilities":[
+            {
+                "link":"https://img.icons8.com/ios/50/000000/garage.png",
+                "alt":"Garage"
+            },
+            {
+                "link":"https://img.icons8.com/external-photo3ideastudio-lineal-photo3ideastudio/64/000000/external-power-supply-home-office-photo3ideastudio-lineal-photo3ideastudio.png",
+                "alt":"24/7 Power"
+            },
+            {
+                "link":"https://img.icons8.com/external-flatart-icons-solid-flatarticons/64/000000/external-wifi-network-and-cloud-computing-flatart-icons-solid-flatarticons.png",
+                "alt":"wi-fi"
+            },
+            {
+                "link":"https://img.icons8.com/external-photo3ideastudio-lineal-photo3ideastudio/64/000000/external-park-public-service-photo3ideastudio-lineal-photo3ideastudio.png",
+
+                "alt":"Park"
+            },
+            {
+                "link":"https://img.icons8.com/material/30/000000/dumbbell--v1.png",
+                "alt":"Gym"
+
+            },
+            {
+                "link":"https://img.icons8.com/external-photo3ideastudio-lineal-photo3ideastudio/64/000000/external-school-building-photo3ideastudio-lineal-photo3ideastudio.png",
+                "alt":"School"
+            },
+            {
+                "link":"https://img.icons8.com/glyph-neue/64/000000/swimming.png",
+                "alt":"Swimming Pool"
+            },
+            {
+                "link":"https://img.icons8.com/external-prettycons-solid-prettycons/60/000000/external-bus-car-parts-vehicles-prettycons-solid-prettycons.png",
+                "alt":"Bus Stop"
+            }
+        ]
+
+    },{
+        "id":7,
+        "para":7,
+        
+        "img": "https://i.pinimg.com/736x/21/96/8a/21968a51154bcfba2a7a6d14c05bb406.jpg",
+        "title":"Property 7",
+        "rate":"₹ 1,00,00,000",
+        "company":"Ocean Reality",
+        "cal":[
+            "https://i.pinimg.com/736x/21/96/8a/21968a51154bcfba2a7a6d14c05bb406.jpg",
+            "https://static.toiimg.com/thumb/msid-82276439,width-1200,height-900,resizemode-4/.jpg",
+            "https://is1-3.housingcdn.com/01c16c28/f09b21bc3f07ebfb83cd5d6ecb34f33c/v0/fs/2_bhk_independent_house-for-rent-ganapathy-Coimbatore-building_view.jpg"
+            
+        ],
+        "facilities":[
+           
+            {
+                "link":"https://img.icons8.com/ios/50/000000/garage.png",
+                "alt":"Garage"
+            },
+            {
+                "link":"https://img.icons8.com/external-photo3ideastudio-lineal-photo3ideastudio/64/000000/external-power-supply-home-office-photo3ideastudio-lineal-photo3ideastudio.png",
+                "alt":"24/7 Power"
+            },
+            {
+                "link":"https://img.icons8.com/external-flatart-icons-solid-flatarticons/64/000000/external-wifi-network-and-cloud-computing-flatart-icons-solid-flatarticons.png",
+                "alt":"wi-fi"
+            },
+            {
+                "link":"https://img.icons8.com/external-photo3ideastudio-lineal-photo3ideastudio/64/000000/external-park-public-service-photo3ideastudio-lineal-photo3ideastudio.png",
+
+                "alt":"Park"
+            },
+            {
+                "link":"https://img.icons8.com/material/30/000000/dumbbell--v1.png",
+                "alt":"Gym"
+
+            },
+            {
+                "link":"https://img.icons8.com/external-photo3ideastudio-lineal-photo3ideastudio/64/000000/external-school-building-photo3ideastudio-lineal-photo3ideastudio.png",
+                "alt":"School"
+            },
+            {
+                "link":"https://img.icons8.com/glyph-neue/64/000000/swimming.png",
+                "alt":"Swimming Pool"
+            },
+            {
+                "link":"https://img.icons8.com/external-prettycons-solid-prettycons/60/000000/external-bus-car-parts-vehicles-prettycons-solid-prettycons.png",
+                "alt":"Bus Stop"
+            }
+        ]
+
+    },{
+        "id":8,
+        "para":8,
+        
+        "img": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/brewster-mcleod-architects-1486154143.jpg",
+        "title":"Property 8",
+        "rate":"₹ 2,41,00,000",
+        "company":"RammaYappan Ltd",
+        "cal":[
+            "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/brewster-mcleod-architects-1486154143.jpg",
+            "https://www.liveenhanced.com/wp-content/uploads/2019/01/Redecorating_Your_Living_Room.jpg",
+            "https://www.architectureartdesigns.com/wp-content/uploads/2016/07/18-Captivating-Mediterranean-Bedroom-Designs-You-Wont-Believe-Exist-12.jpg",
+            "https://www.gdsomaha.com/wp-content/uploads/2019/10/Fiberglass2.jpg"            
+        ],
+        "facilities":[
+            {
+                "link":"https://img.icons8.com/ios/50/000000/garage.png",
+                "alt":"Garage"
+            },
+            {
+                "link":"https://img.icons8.com/external-photo3ideastudio-lineal-photo3ideastudio/64/000000/external-power-supply-home-office-photo3ideastudio-lineal-photo3ideastudio.png",
+                "alt":"24/7 Power"
+            },
+            {
+                "link":"https://img.icons8.com/external-flatart-icons-solid-flatarticons/64/000000/external-wifi-network-and-cloud-computing-flatart-icons-solid-flatarticons.png",
+                "alt":"wi-fi"
+            },
+            {
+                "link":"https://img.icons8.com/external-photo3ideastudio-lineal-photo3ideastudio/64/000000/external-park-public-service-photo3ideastudio-lineal-photo3ideastudio.png",
+
+                "alt":"Park"
+            },
+            {
+                "link":"https://img.icons8.com/material/30/000000/dumbbell--v1.png",
+                "alt":"Gym"
+
+            },
+            {
+                "link":"https://img.icons8.com/external-photo3ideastudio-lineal-photo3ideastudio/64/000000/external-school-building-photo3ideastudio-lineal-photo3ideastudio.png",
+                "alt":"School"
+            },
+            {
+                "link":"https://img.icons8.com/glyph-neue/64/000000/swimming.png",
+                "alt":"Swimming Pool"
+            },
+            {
+                "link":"https://img.icons8.com/external-prettycons-solid-prettycons/60/000000/external-bus-car-parts-vehicles-prettycons-solid-prettycons.png",
+                "alt":"Bus Stop"
+            }
+        ]
+
+    } 
+]   
+

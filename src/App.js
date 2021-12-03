@@ -1,23 +1,43 @@
-import logo from './logo.svg';
-import './App.css';
 
+import './App.css';
+import Card1 from './components/Card1';
+import Details from './components/Details';
+
+import Header from './components/Header';
+import Recomd from './components/Recomd';
+import {
+  BrowserRouter as Router,
+  Route,
+  Routes,
+  Switch
+} from 'react-router-dom';
+import React from 'react';
+import Pop from './components/Pop';
+
+const Home = () => (
+    <React.Fragment>
+      <Header />
+      <Card1 />
+      <Recomd />
+    </React.Fragment>
+);
 function App() {
+
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      <div>
+
+        <Router>
+          <Routes>
+            <Route path="/" element={<Home/>} />
+            <Route path="/Details/:id" element={<Details />} />
+           
+          </Routes>
+        </Router>
+
+
+
+      </div>
     </div>
   );
 }

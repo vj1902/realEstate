@@ -23,11 +23,15 @@
   font-size: calc(10px + 2vmin);
   color: white;
 }
-
+.fade:not(.show)  {
+  opacity: 1 !important;
+}
 .App-link {
   color: #61dafb;
 }
-
+.thumbnails{
+  height: 100px;
+}
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
